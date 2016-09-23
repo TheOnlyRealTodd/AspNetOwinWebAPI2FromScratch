@@ -52,3 +52,13 @@ D:\Projects\Auth2\Auth2\obj\Debug\Auth2.dll
 D:\Projects\Auth2\Auth2\obj\Debug\Auth2.pdb
 D:\Projects\Auth2\Auth2\obj\Debug\Auth2.Migrations.InitialCreation.resources
 D:\Projects\Auth2\Auth2\obj\Debug\Auth2.csproj.GenerateResource.Cache
+D:\Projects\Auth2\Auth2\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\Projects\Auth2\Auth2\bin\SendGrid.dll
+D:\Projects\Auth2\Auth2\bin\SendGrid.SmtpApi.dll
+D:\Projects\Auth2\Auth2\bin\SendGridMail.dll
+D:\Projects\Auth2\Auth2\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Auth2\Auth2\bin\Thinktecture.IdentityModel.Core.dll
+D:\Projects\Auth2\Auth2\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\Auth2\Auth2\bin\Thinktecture.IdentityModel.Core.pdb
+D:\Projects\Auth2\Auth2\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Projects\Auth2\Auth2\bin\Microsoft.Owin.Security.Jwt.xml

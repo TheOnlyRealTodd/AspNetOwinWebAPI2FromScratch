@@ -16,6 +16,15 @@ namespace Auth2.Controllers
 
         private ModelFactory _modelFactory;
         private ApplicationUserManager _AppUserManager = null;
+        private ApplicationRoleManager _AppRoleManager = null;
+
+        protected ApplicationRoleManager AppRoleManager
+        {
+            get
+            {
+                return _AppRoleManager ?? Request.GetOwinContext().GetUserManager<ApplicationRoleManager>();
+            }
+        }
 
         protected ApplicationUserManager AppUserManager
         {
